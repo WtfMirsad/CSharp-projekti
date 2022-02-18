@@ -1,0 +1,8 @@
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\salih\Desktop\Praksa Zadaca\Lab1\Lab1\obj\Debug\Lab1.pdb

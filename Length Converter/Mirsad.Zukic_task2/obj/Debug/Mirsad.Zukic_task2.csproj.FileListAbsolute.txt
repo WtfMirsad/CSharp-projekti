@@ -1,0 +1,8 @@
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\bin\Debug\Mirsad.Zukic_task2.exe
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\bin\Debug\Mirsad.Zukic_task2.pdb
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\obj\Debug\Mirsad.Zukic_task2.Form1.resources
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\obj\Debug\Mirsad.Zukic_task2.Properties.Resources.resources
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\obj\Debug\Mirsad.Zukic_task2.csproj.GenerateResource.Cache
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\obj\Debug\Mirsad.Zukic_task2.exe
+C:\Users\salih\Desktop\Praksa Zadaca\Length Converter\Mirsad.Zukic_task2\obj\Debug\Mirsad.Zukic_task2.pdb
